@@ -27,7 +27,7 @@ namespace Service.Controllers
         public IActionResult GetAdminData()
         {
 
-            // commets goes here
+            // commets goes here -------
             return Ok("This is a response from Admin method");
         }
     }
