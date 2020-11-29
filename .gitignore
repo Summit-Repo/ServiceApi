@@ -1,10 +1,9 @@
-**/bin
-**/obj
+
 
 BusinessLayer/bin
 ModelLayer/bin
 RepositoryLayer/bin
-Service/bin/
+Service/bin
 
 
 BusinessLayer/obj
@@ -25,3 +24,5 @@ Service/obj/Debug/net5.0/Service.csproj.CoreCompileInputs.cache
 Service/bin/Debug/net5.0/ref/Service.dll
 Service/bin/Debug/net5.0/Service.dll
 Service/bin/Debug/net5.0/Service.pdb
+Service/bin/Debug/net5.0/Service.dll
+Service/obj/Debug/net5.0/Service.dll
