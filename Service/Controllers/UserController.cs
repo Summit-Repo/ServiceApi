@@ -10,9 +10,9 @@ using Service.Utility;
 
 namespace Service.Controllers
 {
-[ApiController]
-[Route("[controller]")]
-public class UserController : ControllerBase
+    [ApiController]
+    [Route("[controller]")]
+    public class UserController : ControllerBase
     {
         [HttpGet]
         [Route("GetUserData")]
@@ -26,6 +26,8 @@ public class UserController : ControllerBase
         [Authorize(Policy = Policies.Admin)]
         public IActionResult GetAdminData()
         {
+
+            // commets goes here
             return Ok("This is a response from Admin method");
         }
     }

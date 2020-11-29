@@ -1,16 +1,16 @@
 **/bin
 **/obj
 
-BusinessLayer/bin/
-ModelLayer/bin/
-RepositoryLayer/bin/
-Service/bin/
+BusinessLayer/bin
+ModelLayer/bin
+RepositoryLayer/bin
+Service/bin
 
 
-BusinessLayer/obj/
-ModelLayer/obj/
-RepositoryLayer/obj/
-Service/obj/
+BusinessLayer/obj
+ModelLayer/obj
+RepositoryLayer/obj
+Service/obj
 
 
 
