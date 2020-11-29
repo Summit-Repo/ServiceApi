@@ -1,0 +1,32 @@
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\bin\Debug\netstandard2.0\ModelLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\obj\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\Model\obj\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.csprojAssemblyReference.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.csprojAssemblyReference.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\ServiceApi\ModelLayer\obj\Debug\netstandard2.0\ModelLayer.pdb

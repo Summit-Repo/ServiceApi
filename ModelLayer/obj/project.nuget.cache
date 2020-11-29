@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQjudoHyvlWoWw8Z/+j592FWZiewQHSUwcaqFQDECBC5+AjeGtMU3uRnTblN8BmjJYiawwO3ciSrUFwQM4stDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Imp docs\\Study\\Api Project Setup\\ServiceApi\\ModelLayer\\ModelLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumit\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.pdb
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csprojAssemblyReference.cache
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CopyComplete
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\SummitApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.pdb
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.pdb
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csprojAssemblyReference.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CopyComplete
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\Version Bkp\1_Basic\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.pdb
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.deps.json
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.pdb
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.dll
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\bin\Debug\netstandard2.0\ModelLayer.pdb
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csprojAssemblyReference.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfo.cs
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CopyComplete
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.dll
+D:\Imp docs\Study\Api Project Setup\ServiceApi\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.pdb
